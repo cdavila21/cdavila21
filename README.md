@@ -1,4 +1,4 @@
-<h1>Hi, I'm Connor, an <a href="https://linkedin.com/in/Connor">IT Professional
+<h1>Hi, I'm Connor, an <a href="https://linkedin.com/in/connor-davila-b87284369/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
