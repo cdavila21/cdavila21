@@ -1,6 +1,7 @@
 <h1>Hi, I'm Connor, an <a href="https://linkedin.com/in/connor-davila-b87284369/">IT Professional!
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+
+👨‍💻 Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cdavila21/osticket-prereqs)
